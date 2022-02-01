@@ -3,10 +3,6 @@
 
   <remote name="mi-msm8937"
           fetch="https://github.com/mi-msm8937" />
-          
-  <remote name="ItoRenz-Build"
-          fetch="https://github.com/ItoRenz-Build" />
-
 
   <!-- Trees -->
         <project path="device/xiaomi/rova" name="android_device_xiaomi_rova" remote="mi-msm8937" revision="lineage-18.1" />
